@@ -104,7 +104,7 @@ def sha256(message):
 
 if (" ".join(sys.argv[1:]) == "--help") or (" ".join(sys.argv[1:]) == "-h"):
     print("""
-usage: sha256.py "Test to encrypt"
+usage: sha256.py "string to encrypt"
 
 SHA-256 Implementation in Python
 
