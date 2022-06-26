@@ -4,3 +4,5 @@ a Python SHA-256 algorithm implementation for Bitcoin explanations on my Youtube
 
 
 > usage: sha256.py "string to encrypt"
+
+![](https://i.imgur.com/2prQSPl.png)
